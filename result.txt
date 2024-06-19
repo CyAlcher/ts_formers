@@ -1,0 +1,24 @@
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:3301.715576171875, mae:44.88531494140625
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1591.2457275390625, mae:31.200841903686523
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1450.0384521484375, mae:31.15920639038086
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1591.2457275390625, mae:31.200841903686523
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1591.2457275390625, mae:31.200841903686523
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1591.2457275390625, mae:31.200841903686523
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1591.2457275390625, mae:31.200841903686523
+
+ss_test_Autoformer_custom_ftS_sl20_ll10_pl5_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1591.2457275390625, mae:31.200841903686523
+
